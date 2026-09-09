@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dev Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="dashboard-container">
+        <header>
+            <h1>Developer Dashboard</h1>
+            <div class="search-box">
+                <input type="text" id="usernameInput" placeholder="Enter GitHub username...">
+                <button id="loadBtn">Load Profile</button>
+            </div>
+        </header>
+
+        <main id="profileContent" class="hidden">
+            <div class="card profile-card">
+                <img id="avatar" src="" alt="Avatar">
+                <h2 id="name"></h2>
+                <p id="bio"></p>
+                <div class="stats">
+                    <div>Repos: <span id="repos">0</span></div>
+                    <div>Followers: <span id="followers">0</span></div>
+                    <div>Following: <span id="following">0</span></div>
+                </div>
+            </div>
+        </main>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
