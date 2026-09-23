@@ -1,5 +1,3 @@
-<div align="center">
-
 # 📊 GitHub Stats & Activity Card
 
 A lightweight, client-side web application built with vanilla HTML, CSS, and JavaScript that fetches and displays GitHub user profiles and core statistics instantly.
@@ -9,16 +7,14 @@ A lightweight, client-side web application built with vanilla HTML, CSS, and Jav
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-</div>
-
 ---
 
 ## 🚀 Features
 
-- **🔍 Instant Profile Lookup:** Search for any public GitHub username in real-time.
-- **🎨 Clean Dark UI:** Styled carefully to match GitHub's modern dark theme.
-- **📈 Key Metrics:** View public repositories, followers, following counts, and user bios at a glance.
-- **⚡ No Backend Required:** Runs entirely in the browser using the public GitHub REST API.
+* **🔍 Instant Profile Lookup:** Search for any public GitHub username in real-time.
+* **🎨 Clean Dark UI:** Styled carefully to match GitHub's modern dark theme.
+* **📈 Key Metrics:** View public repositories, followers, following counts, and user bios at a glance.
+* **⚡ No Backend Required:** Runs entirely in the browser using the public GitHub REST API.
 
 ---
 
